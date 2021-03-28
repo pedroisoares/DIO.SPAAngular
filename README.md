@@ -1,6 +1,8 @@
-# Spaangular
+# DIO.SPAAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+
+This application is for training in Angular. 
 
 ## Development server
 
